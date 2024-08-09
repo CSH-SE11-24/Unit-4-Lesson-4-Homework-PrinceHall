@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  width:30vw;
+}
+
+#homeimg {
+  width:60vw;
+}
+
+#beginning {
+  text-align:center;
+}
+
+body {
+  background-color:#d1d1ff;
+  font-family: 'Courier New';
+}
+
+h1 {
+  text-align:center;
+}
+
+h2 {
+  text-align:center;
+}
+
+.navbar {
+  background-color: #6385b0;
+  text-align: center;
+}
+/* Add selectors to make the website look like the following: https://726ccf0a-6b5b-49e1-b58b-2ff592f02da7-00-33tjtum5lnyz8.teams.replit.dev/ */
+/* Hints in the README */
+
